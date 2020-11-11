@@ -1,3 +1,5 @@
+![bold & friendly banner](img/github_hello.jpg "Banner") 
+
 ### Hi there 👋
 
 <!--
