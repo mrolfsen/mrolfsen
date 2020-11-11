@@ -1,4 +1,4 @@
-![bold & friendly banner](img/github_hello.jpg "Banner") 
+![bold & friendly banner](img/github_hello.png "Banner") 
 
 ### Hi there 👋
 
